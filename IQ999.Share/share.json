@@ -4,8 +4,8 @@
     {
       "item": {
         "referenceType": "ById",
-        "workspaceId": "24d1c1ba-5096-4a39-af4f-17c092a44978",
-        "itemId": "fc7edc33-fd34-43f0-9394-95c7134702b8"
+        "workspaceId": "00000000-0000-0000-0000-000000000000",
+        "itemId": "134702b8-95c7-9394-43f0-fd34fc7edc33"
       },
       "shareAs": "MirroredOneLake"
     }
@@ -13,6 +13,11 @@
   "recipients": [
     {
       "userPrincipalName": "Admin2CBA@FabricOneLake09PPE.ccsctp.net",
+      "tenantId": "90312517-2072-4d68-9152-fd646c01c119",
+      "type": "User"
+    },
+    {
+      "userPrincipalName": "Admin3CBA@FabricOneLake09PPE.ccsctp.net",
       "tenantId": "90312517-2072-4d68-9152-fd646c01c119",
       "type": "User"
     }
