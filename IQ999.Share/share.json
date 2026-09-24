@@ -1,0 +1,28 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/share/definition/share/1.0.0/schema.json",
+  "assets": [
+    {
+      "item": {
+        "referenceType": "ById",
+        "workspaceId": "24d1c1ba-5096-4a39-af4f-17c092a44978",
+        "itemId": "fc7edc33-fd34-43f0-9394-95c7134702b8"
+      },
+      "shareAs": "MirroredOneLake"
+    }
+  ],
+  "recipients": [
+    {
+      "userPrincipalName": "Admin2CBA@FabricOneLake09PPE.ccsctp.net",
+      "tenantId": "90312517-2072-4d68-9152-fd646c01c119",
+      "type": "User"
+    }
+  ],
+  "sharePolicies": [
+    {
+      "type": "ShareExpiration",
+      "properties": {
+        "expirationDateTime": "2026-10-02T18:29:59Z"
+      }
+    }
+  ]
+}
