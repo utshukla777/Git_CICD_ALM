@@ -27,5 +27,12 @@
       "type": "User"
     }
   ],
-  "sharePolicies": []
+  "sharePolicies": [
+    {
+      "type": "ShareExpiration",
+      "properties": {
+        "expirationDateTime": "2027-10-02T18:29:59Z"
+      }
+    }
+  ]
 }
