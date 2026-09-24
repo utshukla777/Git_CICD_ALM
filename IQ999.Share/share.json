@@ -20,6 +20,11 @@
       "userPrincipalName": "Admin3CBA@FabricOneLake09PPE.ccsctp.net",
       "tenantId": "90312517-2072-4d68-9152-fd646c01c119",
       "type": "User"
+    },
+    {
+      "userPrincipalName": "Admin4CBA@FabricOneLake09PPE.ccsctp.net",
+      "tenantId": "90312517-2072-4d68-9152-fd646c01c119",
+      "type": "User"
     }
   ],
   "sharePolicies": [
